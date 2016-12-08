@@ -1,0 +1,6 @@
+{
+    "name": "ACT Viewer Form",
+    "className": "lct-viewer-form",
+    "server": "https://rally1.rallydev.com/",
+    "sdk": "2.1"
+}
